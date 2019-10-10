@@ -1,0 +1,15 @@
+[submodule "DiligentCore"]
+	path = DiligentCore
+	url = https://github.com/DiligentGraphics/DiligentCore.git
+[submodule "DiligentTools"]
+	path = DiligentTools
+	url = https://github.com/DiligentGraphics/DiligentTools.git
+[submodule "DiligentFX"]
+	path = DiligentFX
+	url = https://github.com/DiligentGraphics/DiligentFX.git
+[submodule "thirdparty/fibertaskinglib"]
+	path = thirdparty/fibertaskinglib
+	url = git@github.com:RichieSams/FiberTaskingLib.git
+[submodule "thirdparty/freeimage"]
+	path = thirdparty/freeimage
+	url = git@github.com:raptoravis/FreeImage.git

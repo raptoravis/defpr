@@ -1,32 +1,53 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+*.sdf
+*.opensdf
+*.tlog
+*.lastbuildstate
+*.idb
+*.manifest
+*.user
+*.suo
+*.ipch
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
-*.lib
+*.aps
+*.ilk
+*.pdb
+#*.dll
+*.exp
+#*.lib
+*.iobj
+*.ipdb
+*.db
+VisualGDBCache
+#ARM
+#gen
+tmp
+*.log
+*.mk.old
+*.opendb
+local.properties
+project.properties
+proguard-project.txt
+html
+doc/latex
+/cmk_build
+build/win64
+build/mingw
+*.db-shm
+*.db-wal
+*.vspx
+*.VC.db
+*.VC.VC.opendb
+.vs
 
-# Executables
-*.exe
-*.out
-*.app
+GhostCubePlugin.dll
+
+thirdparty/boost_1_70_0/bin.v2
+thirdparty/boost_1_70_0/stage
+
+thirdparty/boost_1_70_0/libs/config/checks/architecture/bin/
+thirdparty/boost_1_70_0/libs/math/dot_net_example/distribution_explorer/obj/
+thirdparty/boost_1_70_0/tools/build/src/engine/bin.ntx86/
+thirdparty/boost_1_70_0/tools/build/src/engine/bootstrap/
+
+ 
